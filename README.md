@@ -21,8 +21,7 @@ Je suis ouvert à :
 - des **collaborations entre développeurs**
 - la création d'**applications web innovantes**
 
-### 📫 Me contacter
-- GitHub : https://github.com/nicklancelot
+
 
 ---
 
