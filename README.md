@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="banner" width="100%" />
+  <img src="https://[your-image-url.com](https://fr.freepik.com/psd-gratuit/modele-youtube-technologie-degrade_29711991.htm#fromView=search&page=2&position=25&uuid=244bab4d-f66e-4cec-872d-67baaf008a1a&query=couverture+sur+github)/banner.png" alt="banner" width="100%" />
 </p>
 
 ## 👋 Bonjour, je suis RAZAFINDRAKOTO Heriniaina Lancelo
