@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="banner" width="100%" />
+</p>
+
 ## 👋 Bonjour, je suis RAZAFINDRAKOTO Heriniaina Lancelo
 
 💻 **Développeur Web** passionné par la création d'applications web modernes, performantes et évolutives.
