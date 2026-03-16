@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Bonjour, je suis RAZAFINDRAKOTO Heriniaina Lancelo
 
-<!--
-**nicklancelot/nicklancelot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Développeur Web** passionné par la création d'applications web modernes, performantes et évolutives.
 
-Here are some ideas to get you started:
+### 🚀 Technologies & Outils
+- ⚙️ Backend : **Laravel / PHP**
+- 🎨 Frontend : **React.js / Next.js**
+- 🗄️ Base de données : **MySQL / Prisma**
+- 🔧 Outils : **Git / GitHub / API REST**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 En ce moment
+- Apprentissage avancé de **Next.js**
+- Intégration de **l'intelligence artificielle dans les applications web**
+- Amélioration de mes compétences en **développement Full Stack**
+
+### 🤝 Collaboration
+Je suis ouvert à :
+- des **projets open source**
+- des **collaborations entre développeurs**
+- la création d'**applications web innovantes**
+
+### 📫 Me contacter
+- GitHub : https://github.com/nicklancelot
+
+---
+
+⭐ *Toujours motivé pour apprendre, créer et partager des projets autour du développement web.*
