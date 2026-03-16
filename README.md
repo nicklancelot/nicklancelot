@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://sl.bing.net/fra4wjiOVJQ" alt="banner" width="100%" />
-</p>
+
 
 ## 👋 Bonjour, je suis RAZAFINDRAKOTO Heriniaina Lancelo
 
